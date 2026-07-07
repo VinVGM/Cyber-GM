@@ -2,9 +2,11 @@
 
 A secure, modern, and responsive dashboard for cybersecurity operations, built with Next.js 15.
 
-**🌐 Live Demo:** [https://cyber-gm-vgm.vercel.app/](https://cyber-gm-vgm.vercel.app/)
+<p align="center">
+  <img src="cyber-gm.png" alt="Screenshot of CYBER-GM Dashboard" width="100%">
+</p>
 
-![Screenshot of CYBER-GM Dashboard](cyber-gm.png)
+**🌐 Live Demo:** [https://cyber-gm-vgm.vercel.app/](https://cyber-gm-vgm.vercel.app/)
 
 ## 🚀 Technology Stack
 
