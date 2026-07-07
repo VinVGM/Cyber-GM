@@ -1,0 +1,59 @@
+{kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+    {
+      "name": "Login page elements",
+      "status": "passed",
+      "message": "Test passed",
+      "durationMs": 383,
+      "timestamp": "2026-04-01T13:03:47.274Z"
+    },
+    {
+      "name": "Login invalid credentials",
+      "status": "passed",
+      "message": "Test passed",
+      "durationMs": 1540,
+      "timestamp": "2026-04-01T13:03:48.814Z"
+    },
+    {
+      "name": "Forgot password flow",
+      "status": "passed",
+      "message": "Test passed",
+      "durationMs": 537,
+      "timestamp": "2026-04-01T13:03:49.351Z"
+    },
+    {
+      "name": "Register page flow",
+      "status": "passed",
+      "message": "Test passed",
+      "durationMs": 486,
+      "timestamp": "2026-04-01T13:03:49.837Z"
+    },
+    {
+      "name": "Login with valid credentials",
+      "status": "passed",
+      "message": "Test passed",
+      "durationMs": 812,
+      "timestamp": "2026-04-01T13:03:50.649Z"
+    },
+    {
+      "name": "Profile navigation",
+      "status": "passed",
+      "message": "Test passed",
+      "durationMs": 1006,
+      "timestamp": "2026-04-01T13:03:51.655Z"
+    },
+    {
+      "name": "Issue tracker create and search",
+      "status": "passed",
+      "message": "Test passed",
+      "durationMs": 2478,
+      "timestamp": "2026-04-01T13:03:54.133Z"
+    },
+    {
+      "name": "Logout flow",
+      "status": "passed",
+      "message": "Test passed",
+      "durationMs": 549,
+      "timestamp": "2026-04-01T13:03:54.682Z"
+    }
+  ]
+}

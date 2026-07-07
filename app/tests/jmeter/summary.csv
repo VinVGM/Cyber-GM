@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Landing page GET /,303,4017,78,6081,1492.92,0.000%,6.85598,1301.56,1.32,194399.8
+Auth login POST,303,2284,117,3728,894.46,94.389%,6.82494,3.15,1.87,472.4
+TOTAL,606,3151,78,6081,1505.06,47.195%,13.59628,1293.72,3.17,97436.1
